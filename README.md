@@ -18,6 +18,7 @@ The primary objective of PDF_Extractor is to automate the extraction of textual 
 📄 Page-by-Page Structuring: Stores each page's content in a structured JSON format with:
 
 💾 File Output:
+
 output.json  containing all structured content
 
 📦 Libraries
