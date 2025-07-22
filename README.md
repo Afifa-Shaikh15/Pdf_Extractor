@@ -1,4 +1,5 @@
 ABOUT
+
 PDF_Extractor is a Python-based utility developed to extract all meaningful content from PDF files in a structured and user-friendly format. It processes PDFs page by page, extracting both text and images, then organizes the results into a clean, machine-readable JSON file. The extracted images are saved as separate files and named according to their page and position (e.g., page2_image1.png). This tool is ideal for educational, research, and document-processing purposes where analyzing or digitizing PDF content is required.
 
 🎯 Project Objective
